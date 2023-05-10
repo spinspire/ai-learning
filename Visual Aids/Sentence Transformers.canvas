@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"f6469e3524956d6c","x":-380,"y":-260,"width":560,"height":400,"type":"text","text":"## Dataset\n```\n[\n\t{\n\t\t\"sentence\": \"A dog likes to bark\"\n\t},\n\t{\n\t\t\"sentence\": \"A cat likes to meow\"\n\t},\n\t{\n\t\t\"sentence\": \"A duck likes to quack\"\n\t},\n]\n```"},
+		{"id":"4228a8f211d63c59","x":580,"y":40,"width":400,"height":400,"type":"file","file":"AI Topics/Sentence Transformers.md"},
+		{"id":"788267915364cfb6","x":1260,"y":40,"width":540,"height":400,"type":"text","text":"## Output\n```\n// This is a list of vectors\n[\n\t[[]]\n]\n```\n"}
+	],
+	"edges":[
+		{"id":"2ad46d0896e22a01","fromNode":"f6469e3524956d6c","fromSide":"right","toNode":"4228a8f211d63c59","toSide":"left"}
+	]
+}
