@@ -1,6 +1,6 @@
 ## What is AI?
 ---
-- [[Transformers]]
+- [[Sentence Transformers]]
 - [[Vectors]]
 - [[Vector Databases]]
 - [[Training]]
