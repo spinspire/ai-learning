@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI Topics/Vectors.md",
+                "file": "Training.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI Topics/Vectors.md",
+                "file": "Training.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI Topics/Vectors.md",
+                "file": "Training.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +125,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI Topics/Vectors.md"
+                "file": "Training.md"
               }
             }
+          },
+          {
+            "id": "829f4afcfc380ab4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,6 +156,7 @@
   },
   "active": "65d7825d7dbe408b",
   "lastOpenFiles": [
+    "AI Topics/Vectors.md",
     "AI Topics/Vector Databases.md",
     "AI Topics/Sentence Transformers.md"
   ]
