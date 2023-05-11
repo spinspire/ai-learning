@@ -1,0 +1,1 @@
+Sentence transformers convert text information into a numeric representation of what that data "looks like" to a [[Models|Model]]. The return data is a [[Vectors|Vector]] which can be stored for comparison with other vectors.
